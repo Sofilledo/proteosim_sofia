@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Proteosim_sofia"
+version = "0.1.0"
+description = "This is a very useful packadge that lets you digest proteins and simulate MS"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "sofia" }]
+requires-python = ">=3.10.19"
+dependencies = [
+    "numpy",
+    "pytest",
+    "matplotlib",
+    "pyteomics"
+     # Add all required dependencies
+]
+
+[tool.setuptools.packages.find]
+include = ["Proteosim_sofia"]

@@ -1,2 +1,2 @@
 # proteosim_sofia
-halo
+This is a very useful packadge that lets you digest proteins and simulate MS
