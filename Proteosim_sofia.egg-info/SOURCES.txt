@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+Proteosim_sofia.egg-info/PKG-INFO
+Proteosim_sofia.egg-info/SOURCES.txt
+Proteosim_sofia.egg-info/dependency_links.txt
+Proteosim_sofia.egg-info/requires.txt
+Proteosim_sofia.egg-info/top_level.txt
+tests/test_file_handling.py
+tests/test_liquid_chromatography.py
+tests/test_mass_spectra_simulation.py
+tests/test_protein_digestion.py

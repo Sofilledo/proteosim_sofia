@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: Proteosim_sofia
+Version: 0.1.0
+Summary: This is a very useful packadge that lets you digest proteins and simulate MS
+Author: sofia
+License: MIT
+Requires-Python: >=3.10.19
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pytest
+Requires-Dist: matplotlib
+Requires-Dist: pyteomics
+Dynamic: license-file
+
+# proteosim_sofia
+This is a very useful packadge that lets you digest proteins and simulate MS
